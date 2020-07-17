@@ -1,0 +1,21 @@
+main {
+    background: white;
+    height: 100vh;
+}
+
+.top-section {
+    height: 30vh;
+    width: 100vw;
+    background-color: rgb(43, 43, 43);
+    display: flex;
+    align-content: center;
+    margin: 0 auto;
+    
+}
+
+.title {
+    color: rgb(252, 232, 56);
+    display: flex;
+    align-content: center;
+    text-align: center;
+}
